@@ -1,6 +1,6 @@
 # Set Cover Exercise
 
-This repository contains the solution to the Set Cover problem implemented in the Jupyter Notebook `set-cover-best.ipynb` by the student Luca Ianniello, s327313.
+This repository contains the solution to the Set Cover problem implemented in the Jupyter Notebook `set-cover.ipynb` by the student Luca Ianniello, s327313.
 
 ## Algorithm Description
 
